@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://gieitlaldywithamy.github.io/blog"
-#baseurl: "/blog"
+url: "http://gieitlaldywithamy.github.io/blog"
+baseurl: "/blog"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -24,11 +24,11 @@ description: Hey! My name is Amy and welcome to my blog.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Categories:
+    - Culture: "http://deanattali.com/beautiful-jekyll/"
+    - Fitness: "http://www.markdowntutorial.com/"
+    - Programming Reviews: "https://pages.github.com/"
+  #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
