@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Featured users
+title: About Me
 ---
 
-To my huge surprise, Beautiful Jekyll has been used in over 500 websites in its first 6 months alone! Here is a hand-picked selection of some websites that use Beautiful Jekyll.
+Hi!
 
-Want your website featured here? [Contact me](http://deanattali.com/aboutme#contact) to let me know about your website.
+I'm Amy
+
 
 ### Project/company websites
 
