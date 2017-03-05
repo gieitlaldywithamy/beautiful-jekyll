@@ -9,7 +9,7 @@ I'm Amy.
 
 I'm a 24 year old Scottish lass who loves fitness, books and codes in her spare time. I've started this blog as a platform for me to express my thoughts. I've always struggled to express myself in words and I would like to change this! 
 
-### My Front End Portfolio
+### My 2017 Goals
 
 | Goal | How I am going to achieve this |
 | :------ |:----------- |
