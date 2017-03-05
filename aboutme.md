@@ -5,25 +5,35 @@ title: About Me
 
 Hi!
 
-I'm Amy
+I'm Amy.
+
+I'm a 24 year old Scottish lass who loves fitness, books and codes in her spare time. I've started this blog as a platform for me to express my thoughts. I've always struggled to express myself in words and I would like to change this! 
+
+### My Front End Portfolio
+
+| Goal | How I am going to achieve this |
+| :------ |:----------- |
+| Read 52 books | Make time for reading! |
+| be happier | Journal what I have achieved daily |
+| Become a better programmer | Code daily! Go to as many tech talks and events I can |
+| Build a healthier relationship with food | Continue to reverse diet |
+| Smash crossfit | Sleep and eat enough |
 
 
-### Project/company websites
+
+
+
+<!--
+### My Front End Portfolio
 
 | Website | Description |
 | :------ |:----------- |
 | [teampass.net](http://teampass.net) | Collaborative Passwords Manager |
 | [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
 | [bigdata.juju.solutions](http://bigdata.juju.solutions) | Creating Big Data solutions Juju Solutions |
-| [joecks.github.io/clipboard-actions](http://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
-| [deanattali.com/shinyjs](http://deanattali.com/shinyjs/) | shinyjs - an R package |
-| [embedded.guide](http://embedded.guide) | Writing an Embedded OS |
-| [blabel.github.io](http://blabel.github.io) | Library for canonicalising blank node labels in RDF graphs |
-| [reactionic.github.io](http://reactionic.github.io) | Create iOS and Android apps with React and Ionic |
-| [ja2-stracciatella.github.io](http://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
-| [PatientOutcomeFunding.org](http://www.patientoutcomefunding.org/) | Patient Outcome Funding |
 
-### Personal websites
+
+### Python
 
 | Website | Who | What |
 | :------ |:--- | :--- |
@@ -37,3 +47,4 @@ I'm Amy
 | [epwalsh.com](https://epwalsh.com) | Evan Pete Walsh | PhD candidate (Statistics and Mathematics) at Iowa State University |
 | [anudit.in](http://www.anudit.in/) | Anudit Verma | Engineering student |
 | [aqibsaeed.github.io](http://aqibsaeed.github.io/) | Aaqib Saeed | Computer Science grad student |
+-->
