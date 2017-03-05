@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asking For It By Louise O'Neill
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: An uncomfortable but important read!
 bigimg: /img/path.jpg
 ---
 
