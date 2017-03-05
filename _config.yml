@@ -28,6 +28,7 @@ navbar-links:
     - Culture: "http://deanattali.com/beautiful-jekyll/"
     - Fitness: "http://www.markdowntutorial.com/"
     - Programming Reviews: "https://pages.github.com/"
+    - Mental Health: "mentalhealth"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
