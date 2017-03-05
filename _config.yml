@@ -28,11 +28,11 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Categories:
-    - Fitness: "getstarted"
-    - Culture: "featured-users"
-    - Programming tutorials: "https://github.com/daattali/beautiful-jekyll#readme"
-    - Mental Health: "mentalhealth"
+  #Categories:
+   # - Fitness: "getstarted"
+   # - Culture: "featured-users"
+   # - Programming tutorials: "https://github.com/daattali/beautiful-jekyll#readme"
+   # - Mental Health: "mentalhealth"
   About me: "aboutme"
   
 
